@@ -1,6 +1,6 @@
 <h1 align="center"> SkySweet1 / an outcast among programmers </h1>
 
-<img width="12" />![eryn#0007](https://github.com/user-attachments/assets/69021771-54ac-4bf4-afb1-69504a4f8653)
+<h1 align="center"> <img width="12" />![eryn#0007](https://github.com/user-attachments/assets/69021771-54ac-4bf4-afb1-69504a4f8653) </h1>
 
 ###
 <h1 align="center"> i do not know these languages: </h1>
