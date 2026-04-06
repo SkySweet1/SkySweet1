@@ -1,7 +1,23 @@
-# SkySweet1
+<h1 align="center"> SkySweet1 </h1>
 
-[![wakatime](https://wakatime.com/badge/user/018c9bb7-a53c-45c7-a66c-27d6a05811f5.svg)](https://wakatime.com/@018c9bb7-a53c-45c7-a66c-27d6a05811f5)
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=shell" height="40" alt="react logo"  />
+  <img width="12" />
+</div>
 ###
 
 <p align="center">
