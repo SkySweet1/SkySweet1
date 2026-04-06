@@ -1,4 +1,4 @@
-<h1 align="center"> SkySweet1 / an outcast among programmers </h1>
+<h1 align="center"> timestamp / an outcast among programmers </h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69021771-54ac-4bf4-afb1-69504a4f8653" alt="eryn#0007" />
