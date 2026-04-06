@@ -5,7 +5,7 @@
 </p>
 
 ###
-<h1 align="center"> i do not know these languages: </h1>
+<p align="center"><strong>i dont know these languages:</strong></p>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
