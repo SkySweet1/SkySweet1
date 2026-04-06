@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="svelte logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=shell" height="40" alt="react logo"  />
-  <img width="12" />
 </div>
 ###
 
