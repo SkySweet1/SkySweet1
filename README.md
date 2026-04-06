@@ -1,7 +1,7 @@
 <h1 align="center"> SkySweet1 / an outcast among programmers </h1>
 
 ###
-
+<h1 align="center"> i do not know these languages: </h1>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
