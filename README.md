@@ -17,6 +17,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="svelte logo"  />
 
 </div>
