@@ -22,3 +22,4 @@
   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="svelte logo"  />
 
 </div>
+
